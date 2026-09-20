@@ -1,0 +1,9 @@
+# BEKIR DEVS profile display data
+# Do not place a real authentication secret in a public GitHub repository.
+
+username=CHEATGLOBAL
+license_key=BDV-****-****-DEMO
+remaining_days=Unlimited
+rank=Premium
+subscription=Premium
+status=active

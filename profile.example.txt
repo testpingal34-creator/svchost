@@ -1,0 +1,11 @@
+
+
+username=Bekir
+license_key=PINGAL-XXXX-XXXX
+rank=Developer
+subscription=Premium
+enabled=1
+expiry_date=2030-04-30
+avatar_url=https://avatars.githubusercontent.com/u/293339768?v=4
+
+
