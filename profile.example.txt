@@ -1,6 +1,6 @@
 
 
-username=Bekir
+username=Free Cheats PingalDev
 license_key=PINGAL-XXXX-XXXX
 rank=Developer
 subscription=Premium
